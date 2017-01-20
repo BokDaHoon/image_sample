@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ImageLibraryExam</string>
+    <string name="glide_label">Glide</string>
+    <string name="picasso_label">Picasso</string>
+</resources>
